@@ -1,0 +1,36 @@
+_repo: -And-they-thought-we-wouldn-t-fight-_31086
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31086-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Gibbons, Floyd Phillips
+    birthdate: 1887
+    deathdate: 1939
+    gutenberg_agent_id: '34994'
+    url: http://www.gutenberg.org/2009/agents/34994
+description: '"On the night of February 27, 1917, when the Laconia was two hundred
+  miles off the coast of Ireland, the Gibbons'' "hunch" was fulfilled. The Laconia
+  was torpedoed and sunk. After a perilous night in a small boat on the open sea,
+  Gibbons was rescued and brought into Queenstown. He opened the cables and flashed
+  to America the most powerful call to arms to the American people. It shook the country.
+  It was the testimony of an eye witness and it convinced the Imperial German government,
+  beyond all reasonable doubt, of the wilful and malicious murder of American citizens.
+  The Gibbons story furnished the proof of the overt act and it was unofficially admitted
+  at Washington that it was the determining factor in sending America into the war
+  one month later" -- Foreword.'
+gutenberg_issued: '2010-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31086'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Western Front'
+- !lcc 'D501'
+title: '"And they thought we wouldn''t fight"'
+url: http://www.gutenberg.org/ebooks/31086
